@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Vishal Kumar Goyal
+# Hi there 👋 I'm Vishaal Kumar Goyal
 
 🎓 B.Tech CSE | 👨‍💻 Python Developer | 🔐 Cybersecurity Enthusiast | 📈 Trader
 
